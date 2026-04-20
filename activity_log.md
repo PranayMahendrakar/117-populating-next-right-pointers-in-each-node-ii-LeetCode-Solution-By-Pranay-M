@@ -7,3 +7,4 @@
 - [2026-04-20T12:16:38Z] test: add unit tests for core module
 - [2026-04-20T19:55:22Z] test: add unit tests for core module
 - [2026-04-20T16:05:44Z] perf: optimize loop for better performance
+- [2026-04-20T11:40:15Z] chore: remove deprecated API calls
