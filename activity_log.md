@@ -2,3 +2,4 @@
 
 - [2026-04-20T12:43:53Z] perf: optimize loop for better performance
 - [2026-04-20T21:23:21Z] style: apply consistent code formatting
+- [2026-04-20T11:24:54Z] test: add unit tests for core module
